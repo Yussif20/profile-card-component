@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [Profile Card Component](https://yussif20.github.io/profile-card-component/)
+- Live Site URL: [Profile Card Component](https://profile-card-dazai.netlify.app/)
 
 ## My process
 
